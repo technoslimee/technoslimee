@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @technoslimee
-- 👀 I’m interested in ... downloading mods for minecraft
-- 🌱 I’m currently learning ... html, math, english etc.
-- 💞️ I’m looking to collaborate on ... minecraft
-- 📫 How to reach me ... via email
+- 👋 Hi, I’m TSSAI
+- 👀 I’m interested in Hypixel's API
+- 🌱 I’m currently learning Python, C#, C++, C, Javascript
+- 💞️ I’m looking to collaborate on some mods ill make in the future
+- 📫 How to reach me via email
 
 <!---
 technoslimee/technoslimee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
